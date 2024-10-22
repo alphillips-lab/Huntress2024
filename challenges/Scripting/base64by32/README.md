@@ -9,20 +9,3 @@
 
 * [base64by32.zip](<files/base64by32.zip>)
 
-## Solution
-
-This challenge requires you to Base64 decode the input 32 times.
-
-This can be done simply with the following script:
-```
-import refinery as r
-import sys
-
-with open(sys.argv[1], "rb") as f:
-  data = f.read()
-
-for _ in range(32):
-  data = data | r.b64() | ...
-
-print(data)
-```

@@ -13,3 +13,12 @@
 
 * [GoCrackMe1.zip](<files/GoCrackMe1.zip>)
 
+## Solution
+
+This crackme has a simple XOR loop that decodes the flag.
+
+![gocrackme1_1.png](/images/gocrackme1_1.png)
+
+```
+emit '0:71-44coc``3dg0cc3c`nf2cno0e24435f0n+' |r.xor h:56
+```

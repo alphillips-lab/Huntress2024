@@ -12,11 +12,11 @@
 
 ### Reverse Engineering
 
-* [GoCrackMe1](<challenges/Reverse Engineering/gocrackme1/>) <em>(easy)</em>
+* :white_check_mark: [GoCrackMe1](<challenges/Reverse Engineering/gocrackme1/>) <em>(easy)</em>
 * :white_check_mark: [Stack It](<challenges/Reverse Engineering/stack-it/>) <em>(medium)</em>
 * [OceanLocust](<challenges/Reverse Engineering/oceanlocust/>) <em>(medium)</em>
-* [GoCrackMe2](<challenges/Reverse Engineering/gocrackme2/>) <em>(easy)</em>
-* [GoCrackMe3](<challenges/Reverse Engineering/gocrackme3/>) <em>(medium)</em>
+* :white_check_mark: [GoCrackMe2](<challenges/Reverse Engineering/gocrackme2/>) <em>(easy)</em>
+* :white_check_mark: [GoCrackMe3](<challenges/Reverse Engineering/gocrackme3/>) <em>(medium)</em>
 
 ### Forensics
 
@@ -27,7 +27,7 @@
 * [Nightmare on Hunt Street Part #3](<challenges/Forensics/nightmare-on-hunt-street-part-3/>) <em>(easy)</em>
 * [Nightmare on Hunt Street Part #4](<challenges/Forensics/nightmare-on-hunt-street-part-4/>) <em>(easy)</em>
 * [Nightmare on Hunt Street Part #5](<challenges/Forensics/nightmare-on-hunt-street-part-5/>) <em>(easy)</em>
-* [Zimmer Down](<challenges/Forensics/zimmer-down/>) <em>(easy)</em>
+* :white_check_mark: [Zimmer Down](<challenges/Forensics/zimmer-down/>) <em>(easy)</em>
 * [Little Shop of Hashes Part #1](<challenges/Forensics/little-shop-of-hashes-part-1/>) <em>(medium)</em>
 * [Little Shop of Hashes Part #2](<challenges/Forensics/little-shop-of-hashes-part-2/>) <em>(medium)</em>
 * [Little Shop of Hashes Part #3](<challenges/Forensics/little-shop-of-hashes-part-3/>) <em>(medium)</em>
@@ -76,7 +76,7 @@
 
 ### Scripting
 
-* :white_check_mark: [Base64by32](<challenges/Scripting/base64by32/>) <em>(easy)</em>
+* [Base64by32](<challenges/Scripting/base64by32/>) <em>(easy)</em>
 * [Echo Chamber](<challenges/Scripting/echo-chamber/>) <em>(easy)</em>
 
 ### Cryptography

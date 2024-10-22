@@ -9,6 +9,8 @@
 
 * [NTUSER.DAT](<files/NTUSER.DAT>)
 
+## Solution
+
 The intended way to solve this challenge is by using Eric Zimmerman's forensic toolkit: https://ericzimmerman.github.io/
 
 However, it can also be solved by looking through the strings and noticing a weird filename:
