@@ -17,6 +17,6 @@ https://github.com/mandiant/GoReSym
 
 This one generates a random number, and XOR decrypts a part of the stack containing the flag, but there's a random check (screenshot) that will quit early depending on a threshold.
 
-(((gocrackme2_1.png)))
+![gocrackme2_1.png](/images/gocrackme2_1.png)
 
 I solved this by patching the comparison with NOPs (`0x90`), and then running the binary again.

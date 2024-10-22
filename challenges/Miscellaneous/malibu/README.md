@@ -9,6 +9,6 @@
 
 Malibu was a live service emulating an Amazon S3 bucket. Going to the `/bucket` endpoint showed a list of keys.
 
-(((malibu_1.png)))
+![malibu_1.png](/images/malibu_1.png)
 
 Most of the keys had random data, but one of the keys had the flag hidden amongst the data. Simply writing a script to pull all od the keys and search for the `flag` keyword was enough to get the flag.

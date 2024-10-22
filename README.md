@@ -66,19 +66,19 @@
 
 ### Malware
 
-* [Mimi](<challenges/Malware/mimi/>) <em>(easy)</em>
+* :white_check_mark: [Mimi](<challenges/Malware/mimi/>) <em>(easy)</em>
 * :white_check_mark: [Strange Calc](<challenges/Malware/strange-calc/>) <em>(medium)</em>
-* [Discount Programming Devices](<challenges/Malware/discount-programming-devices/>) <em>(easy)</em>
-* [Russian Roulette](<challenges/Malware/russian-roulette/>) <em>(hard)</em>
-* [X-RAY](<challenges/Malware/x-ray/>) <em>(medium)</em>
-* [Eco-Friendly](<challenges/Malware/eco-friendly/>) <em>(easy)</em>
-* [eepy](<challenges/Malware/eepy/>) <em>(medium)</em>
+* :white_check_mark: [Discount Programming Devices](<challenges/Malware/discount-programming-devices/>) <em>(easy)</em>
+* :white_check_mark: [Russian Roulette](<challenges/Malware/russian-roulette/>) <em>(hard)</em>
+* :white_check_mark: [X-RAY](<challenges/Malware/x-ray/>) <em>(medium)</em>
+* :white_check_mark: [Eco-Friendly](<challenges/Malware/eco-friendly/>) <em>(easy)</em>
+* :white_check_mark: [eepy](<challenges/Malware/eepy/>) <em>(medium)</em>
 * :white_check_mark: [Rustline](<challenges/Malware/rustline/>) <em>(medium)</em>
 
 ### Scripting
 
-* [Base64by32](<challenges/Scripting/base64by32/>) <em>(easy)</em>
-* [Echo Chamber](<challenges/Scripting/echo-chamber/>) <em>(easy)</em>
+* :white_check_mark: [Base64by32](<challenges/Scripting/base64by32/>) <em>(easy)</em>
+* :white_check_mark: [Echo Chamber](<challenges/Scripting/echo-chamber/>) <em>(easy)</em>
 
 ### Cryptography
 

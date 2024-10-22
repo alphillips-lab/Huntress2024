@@ -11,6 +11,6 @@ System code was a live service requiring you to diff the JavaScript files source
 
 Upon diffing the config file, you may notice a list of "backup" characters specified in the service's config file.
 
-(((systemcode_1.png)))
+![systemcode_1.png](/images/systemcode_1.png)
 
 Creating a script that attempts each permutation of the characters in the "backup" character list will ultimately yield the flag as a response to the correct password.
