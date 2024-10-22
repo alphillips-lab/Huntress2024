@@ -14,7 +14,7 @@
 
 * :white_check_mark: [GoCrackMe1](<challenges/Reverse Engineering/gocrackme1/>) <em>(easy)</em>
 * :white_check_mark: [Stack It](<challenges/Reverse Engineering/stack-it/>) <em>(medium)</em>
-* [OceanLocust](<challenges/Reverse Engineering/oceanlocust/>) <em>(medium)</em>
+* :white_check_mark: [OceanLocust](<challenges/Reverse Engineering/oceanlocust/>) <em>(medium)</em>
 * :white_check_mark: [GoCrackMe2](<challenges/Reverse Engineering/gocrackme2/>) <em>(easy)</em>
 * :white_check_mark: [GoCrackMe3](<challenges/Reverse Engineering/gocrackme3/>) <em>(medium)</em>
 
@@ -33,25 +33,25 @@
 * [Little Shop of Hashes Part #3](<challenges/Forensics/little-shop-of-hashes-part-3/>) <em>(medium)</em>
 * [Little Shop of Hashes Part #4](<challenges/Forensics/little-shop-of-hashes-part-4/>) <em>(medium)</em>
 * [Little Shop of Hashes Part #5](<challenges/Forensics/little-shop-of-hashes-part-5/>) <em>(medium)</em>
-* [Keyboard Junkie](<challenges/Forensics/keyboard-junkie/>) <em>(medium)</em>
-* [Backdoored Splunk II](<challenges/Forensics/backdoored-splunk-ii/>) <em>(medium)</em>
+* :white_check_mark: [Keyboard Junkie](<challenges/Forensics/keyboard-junkie/>) <em>(medium)</em>
+* :white_check_mark: [Backdoored Splunk II](<challenges/Forensics/backdoored-splunk-ii/>) <em>(medium)</em>
 
 ### Miscellaneous
 
-* [Linux Basics](<challenges/Miscellaneous/linux-basics/>) <em>(easy)</em>
-* [Malibu](<challenges/Miscellaneous/malibu/>) <em>(easy)</em>
+* :white_check_mark: [Linux Basics](<challenges/Miscellaneous/linux-basics/>) <em>(easy)</em>
+* :white_check_mark: [Malibu](<challenges/Miscellaneous/malibu/>) <em>(easy)</em>
 * [Red Phish Blue Phish](<challenges/Miscellaneous/red-phish-blue-phish/>) <em>(medium)</em>
 * :white_check_mark: [Base-p-](<challenges/Miscellaneous/base-p/>) <em>(easy)</em>
-* [Sekiro](<challenges/Miscellaneous/sekiro/>) <em>(medium)</em>
+* :white_check_mark: [Sekiro](<challenges/Miscellaneous/sekiro/>) <em>(medium)</em>
 * :white_check_mark: [1200 Transmissions](<challenges/Miscellaneous/1200-transmissions/>) <em>(easy)</em>
-* [System Code](<challenges/Miscellaneous/system-code/>) <em>(medium)</em>
-* [Permission to Proxy](<challenges/Miscellaneous/permission-to-proxy/>) <em>(medium)</em>
+* :white_check_mark: [System Code](<challenges/Miscellaneous/system-code/>) <em>(medium)</em>
+* :white_check_mark: [Permission to Proxy](<challenges/Miscellaneous/permission-to-proxy/>) <em>(medium)</em>
 
 ### Warmups
 
 * [MatryoshkaQR](<challenges/Warmups/matryoshkaqr/>) <em>(easy)</em>
 * [Read The Rules](<challenges/Warmups/read-the-rules/>) <em>(easy)</em>
-* [Cattle](<challenges/Warmups/cattle/>) <em>(easy)</em>
+* :white_check_mark: [Cattle](<challenges/Warmups/cattle/>) <em>(easy)</em>
 * [Technical Support](<challenges/Warmups/technical-support/>) <em>(easy)</em>
 * [Too Many Bits](<challenges/Warmups/too-many-bits/>) <em>(easy)</em>
 * [Whamazon](<challenges/Warmups/whamazon/>) <em>(easy)</em>
@@ -67,12 +67,13 @@
 ### Malware
 
 * [Mimi](<challenges/Malware/mimi/>) <em>(easy)</em>
-* [Strange Calc](<challenges/Malware/strange-calc/>) <em>(medium)</em>
+* :white_check_mark: [Strange Calc](<challenges/Malware/strange-calc/>) <em>(medium)</em>
 * [Discount Programming Devices](<challenges/Malware/discount-programming-devices/>) <em>(easy)</em>
 * [Russian Roulette](<challenges/Malware/russian-roulette/>) <em>(hard)</em>
 * [X-RAY](<challenges/Malware/x-ray/>) <em>(medium)</em>
 * [Eco-Friendly](<challenges/Malware/eco-friendly/>) <em>(easy)</em>
 * [eepy](<challenges/Malware/eepy/>) <em>(medium)</em>
+* :white_check_mark: [Rustline](<challenges/Malware/rustline/>) <em>(medium)</em>
 
 ### Scripting
 
@@ -82,7 +83,7 @@
 ### Cryptography
 
 * :white_check_mark: [No need for Brutus](<challenges/Cryptography/no-need-for-brutus/>) <em>(easy)</em>
-* [Strive Marish Leadman TypeCDR](<challenges/Cryptography/strive-marish-leadman-typecdr/>) <em>(easy)</em>
+* :white_check_mark: [Strive Marish Leadman TypeCDR](<challenges/Cryptography/strive-marish-leadman-typecdr/>) <em>(easy)</em>
 
 ### OSINT
 
@@ -90,11 +91,12 @@
 
 ### Binary Exploitation
 
-* [Baby Buffer Overflow - 32bit](<challenges/Binary Exploitation/baby-buffer-overflow-32bit/>) <em>(medium)</em>
+* :white_check_mark: [Baby Buffer Overflow - 32bit](<challenges/Binary Exploitation/baby-buffer-overflow-32bit/>) <em>(medium)</em>
 
 ### Web
 
 * [Y2J](<challenges/Web/y2j/>) <em>(easy)</em>
 * [HelpfulDesk](<challenges/Web/helpfuldesk/>) <em>(medium)</em>
 * [MOVEable](<challenges/Web/moveable/>) <em>(hard)</em>
+* :white_check_mark: [Plantopia](<challenges/Web/plantopia/>) <em>(medium)</em>
 

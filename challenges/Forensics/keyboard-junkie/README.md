@@ -9,6 +9,7 @@
 
 * [keyboard_junkie](<files/keyboard_junkie>)
 
+## Solution
 
 This is a USB PCAP containing keyboard inputs. It can be solved with a tool such as this:
 https://gist.github.com/inesmartins/662442da446c3f79e19bca9bd82ea7d1

@@ -9,3 +9,6 @@
 
 * [cattle](<files/cattle>)
 
+## Solution
+
+This challenge utilizes an esoteric programming language known as COW. There is an online translator for it: https://frank-buss.de/cow.html
