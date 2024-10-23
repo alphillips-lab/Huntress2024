@@ -97,6 +97,6 @@
 
 * [Y2J](<challenges/Web/y2j/>) <em>(easy)</em>
 * [HelpfulDesk](<challenges/Web/helpfuldesk/>) <em>(medium)</em>
-* [MOVEable](<challenges/Web/moveable/>) <em>(hard)</em>
+* :white_check_mark: [MOVEable](<challenges/Web/moveable/>) <em>(hard)</em>
 * :white_check_mark: [Plantopia](<challenges/Web/plantopia/>) <em>(medium)</em>
 
