@@ -46,6 +46,7 @@
 * :white_check_mark: [1200 Transmissions](<challenges/Miscellaneous/1200-transmissions/>) <em>(easy)</em>
 * :white_check_mark: [System Code](<challenges/Miscellaneous/system-code/>) <em>(medium)</em>
 * :white_check_mark: [Permission to Proxy](<challenges/Miscellaneous/permission-to-proxy/>) <em>(medium)</em>
+* :white_check_mark: [Time will tell](<challenges/Miscellaneous/time-will-tell/>) <em>(medium)</em>
 
 ### Warmups
 
@@ -74,6 +75,7 @@
 * :white_check_mark: [Eco-Friendly](<challenges/Malware/eco-friendly/>) <em>(easy)</em>
 * :white_check_mark: [eepy](<challenges/Malware/eepy/>) <em>(medium)</em>
 * :white_check_mark: [Rustline](<challenges/Malware/rustline/>) <em>(medium)</em>
+* :white_check_mark: [Ping Me](<challenges/Malware/ping-me/>) <em>(easy)</em>
 
 ### Scripting
 
@@ -89,14 +91,14 @@
 
 * [Ran Somewhere](<challenges/OSINT/ran-somewhere/>) <em>(medium)</em>
 
-### Binary Exploitation
-
-* :white_check_mark: [Baby Buffer Overflow - 32bit](<challenges/Binary Exploitation/baby-buffer-overflow-32bit/>) <em>(medium)</em>
-
 ### Web
 
 * [Y2J](<challenges/Web/y2j/>) <em>(easy)</em>
 * [HelpfulDesk](<challenges/Web/helpfuldesk/>) <em>(medium)</em>
-* :white_check_mark: [MOVEable](<challenges/Web/moveable/>) <em>(hard)</em>
 * :white_check_mark: [Plantopia](<challenges/Web/plantopia/>) <em>(medium)</em>
+* :white_check_mark: [MOVEable](<challenges/Web/moveable/>) <em>(hard)</em>
+
+### Binary Exploitation
+
+* :white_check_mark: [Baby Buffer Overflow - 32bit](<challenges/Binary Exploitation/baby-buffer-overflow-32bit/>) <em>(medium)</em>
 
