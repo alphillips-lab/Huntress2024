@@ -17,6 +17,7 @@
 * :white_check_mark: [OceanLocust](<challenges/Reverse Engineering/oceanlocust/>) <em>(medium)</em>
 * :white_check_mark: [GoCrackMe2](<challenges/Reverse Engineering/gocrackme2/>) <em>(easy)</em>
 * :white_check_mark: [GoCrackMe3](<challenges/Reverse Engineering/gocrackme3/>) <em>(medium)</em>
+* :white_check_mark: [Knight's Quest](<challenges/Reverse Engineering/knights-quest/>) <em>(medium)</em>
 
 ### Forensics
 
@@ -35,6 +36,7 @@
 * [Little Shop of Hashes Part #5](<challenges/Forensics/little-shop-of-hashes-part-5/>) <em>(medium)</em>
 * :white_check_mark: [Keyboard Junkie](<challenges/Forensics/keyboard-junkie/>) <em>(medium)</em>
 * :white_check_mark: [Backdoored Splunk II](<challenges/Forensics/backdoored-splunk-ii/>) <em>(medium)</em>
+* :white_check_mark: [Ancient Fossil](<challenges/Forensics/ancient-fossil/>) <em>(easy)</em>
 
 ### Miscellaneous
 
@@ -45,8 +47,8 @@
 * :white_check_mark: [Sekiro](<challenges/Miscellaneous/sekiro/>) <em>(medium)</em>
 * :white_check_mark: [1200 Transmissions](<challenges/Miscellaneous/1200-transmissions/>) <em>(easy)</em>
 * :white_check_mark: [System Code](<challenges/Miscellaneous/system-code/>) <em>(medium)</em>
-* :white_check_mark: [Permission to Proxy](<challenges/Miscellaneous/permission-to-proxy/>) <em>(medium)</em>
 * :white_check_mark: [Time will tell](<challenges/Miscellaneous/time-will-tell/>) <em>(medium)</em>
+* :white_check_mark: [Permission to Proxy](<challenges/Miscellaneous/permission-to-proxy/>) <em>(medium)</em>
 
 ### Warmups
 
@@ -72,10 +74,10 @@
 * :white_check_mark: [Discount Programming Devices](<challenges/Malware/discount-programming-devices/>) <em>(easy)</em>
 * :white_check_mark: [Russian Roulette](<challenges/Malware/russian-roulette/>) <em>(hard)</em>
 * :white_check_mark: [X-RAY](<challenges/Malware/x-ray/>) <em>(medium)</em>
+* :white_check_mark: [Ping Me](<challenges/Malware/ping-me/>) <em>(easy)</em>
 * :white_check_mark: [Eco-Friendly](<challenges/Malware/eco-friendly/>) <em>(easy)</em>
 * :white_check_mark: [eepy](<challenges/Malware/eepy/>) <em>(medium)</em>
 * :white_check_mark: [Rustline](<challenges/Malware/rustline/>) <em>(medium)</em>
-* :white_check_mark: [Ping Me](<challenges/Malware/ping-me/>) <em>(easy)</em>
 
 ### Scripting
 
@@ -94,8 +96,8 @@
 ### Web
 
 * [Y2J](<challenges/Web/y2j/>) <em>(easy)</em>
-* [HelpfulDesk](<challenges/Web/helpfuldesk/>) <em>(medium)</em>
 * :white_check_mark: [Plantopia](<challenges/Web/plantopia/>) <em>(medium)</em>
+* [HelpfulDesk](<challenges/Web/helpfuldesk/>) <em>(medium)</em>
 * :white_check_mark: [MOVEable](<challenges/Web/moveable/>) <em>(hard)</em>
 
 ### Binary Exploitation

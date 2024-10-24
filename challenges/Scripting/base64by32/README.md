@@ -26,3 +26,8 @@ for _ in range(32):
 
 print(data)
 ```
+
+Refinery can also just do this natively:
+```
+emit base64by32 | r.loop 32 b64
+```
