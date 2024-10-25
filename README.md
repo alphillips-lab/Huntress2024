@@ -16,8 +16,8 @@
 * :white_check_mark: [Stack It](<challenges/Reverse Engineering/stack-it/>) <em>(medium)</em>
 * :white_check_mark: [OceanLocust](<challenges/Reverse Engineering/oceanlocust/>) <em>(medium)</em>
 * :white_check_mark: [GoCrackMe2](<challenges/Reverse Engineering/gocrackme2/>) <em>(easy)</em>
-* :white_check_mark: [GoCrackMe3](<challenges/Reverse Engineering/gocrackme3/>) <em>(medium)</em>
 * :white_check_mark: [Knight's Quest](<challenges/Reverse Engineering/knights-quest/>) <em>(medium)</em>
+* :white_check_mark: [GoCrackMe3](<challenges/Reverse Engineering/gocrackme3/>) <em>(medium)</em>
 
 ### Forensics
 
@@ -46,8 +46,8 @@
 * :white_check_mark: [Base-p-](<challenges/Miscellaneous/base-p/>) <em>(easy)</em>
 * :white_check_mark: [Sekiro](<challenges/Miscellaneous/sekiro/>) <em>(medium)</em>
 * :white_check_mark: [1200 Transmissions](<challenges/Miscellaneous/1200-transmissions/>) <em>(easy)</em>
-* :white_check_mark: [System Code](<challenges/Miscellaneous/system-code/>) <em>(medium)</em>
 * :white_check_mark: [Time will tell](<challenges/Miscellaneous/time-will-tell/>) <em>(medium)</em>
+* :white_check_mark: [System Code](<challenges/Miscellaneous/system-code/>) <em>(medium)</em>
 * :white_check_mark: [Permission to Proxy](<challenges/Miscellaneous/permission-to-proxy/>) <em>(medium)</em>
 
 ### Warmups
@@ -99,6 +99,7 @@
 * :white_check_mark: [Plantopia](<challenges/Web/plantopia/>) <em>(medium)</em>
 * [HelpfulDesk](<challenges/Web/helpfuldesk/>) <em>(medium)</em>
 * :white_check_mark: [MOVEable](<challenges/Web/moveable/>) <em>(hard)</em>
+* :white_check_mark: [PillowFight](<challenges/Web/pillowfight/>) <em>(easy)</em>
 
 ### Binary Exploitation
 
