@@ -10,6 +10,10 @@
 
 * [More Challenges Tomorrow!](<challenges/Huntress/more-challenges-tomorrow/>) <em>(n/a)</em>
 
+### Feedback
+
+* [Feedback](<challenges/Feedback/feedback/>) <em>(easy)</em>
+
 ### Reverse Engineering
 
 * :white_check_mark: [GoCrackMe1](<challenges/Reverse Engineering/gocrackme1/>) <em>(easy)</em>
@@ -18,6 +22,7 @@
 * :white_check_mark: [GoCrackMe2](<challenges/Reverse Engineering/gocrackme2/>) <em>(easy)</em>
 * :white_check_mark: [Knight's Quest](<challenges/Reverse Engineering/knights-quest/>) <em>(medium)</em>
 * :white_check_mark: [GoCrackMe3](<challenges/Reverse Engineering/gocrackme3/>) <em>(medium)</em>
+* :white_check_mark: [That's Life](<challenges/Reverse Engineering/thats-life/>) <em>(hard)</em>
 
 ### Forensics
 
@@ -79,15 +84,15 @@
 * :white_check_mark: [eepy](<challenges/Malware/eepy/>) <em>(medium)</em>
 * :white_check_mark: [Rustline](<challenges/Malware/rustline/>) <em>(medium)</em>
 
+### Cryptography
+
+* :white_check_mark: [Strive Marish Leadman TypeCDR](<challenges/Cryptography/strive-marish-leadman-typecdr/>) <em>(easy)</em>
+* :white_check_mark: [No need for Brutus](<challenges/Cryptography/no-need-for-brutus/>) <em>(easy)</em>
+
 ### Scripting
 
 * :white_check_mark: [Base64by32](<challenges/Scripting/base64by32/>) <em>(easy)</em>
 * :white_check_mark: [Echo Chamber](<challenges/Scripting/echo-chamber/>) <em>(easy)</em>
-
-### Cryptography
-
-* :white_check_mark: [No need for Brutus](<challenges/Cryptography/no-need-for-brutus/>) <em>(easy)</em>
-* :white_check_mark: [Strive Marish Leadman TypeCDR](<challenges/Cryptography/strive-marish-leadman-typecdr/>) <em>(easy)</em>
 
 ### OSINT
 
