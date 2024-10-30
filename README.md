@@ -18,12 +18,13 @@
 
 * :white_check_mark: [GoCrackMe1](<challenges/Reverse Engineering/gocrackme1/>) <em>(easy)</em>
 * :white_check_mark: [Stack It](<challenges/Reverse Engineering/stack-it/>) <em>(medium)</em>
-* :white_check_mark: [OceanLocust](<challenges/Reverse Engineering/oceanlocust/>) <em>(medium)</em>
 * :white_check_mark: [Knight's Quest](<challenges/Reverse Engineering/knights-quest/>) <em>(medium)</em>
+* :white_check_mark: [OceanLocust](<challenges/Reverse Engineering/oceanlocust/>) <em>(medium)</em>
 * :white_check_mark: [GoCrackMe2](<challenges/Reverse Engineering/gocrackme2/>) <em>(easy)</em>
 * :white_check_mark: [GoCrackMe3](<challenges/Reverse Engineering/gocrackme3/>) <em>(medium)</em>
 * :white_check_mark: [That's Life](<challenges/Reverse Engineering/thats-life/>) <em>(hard)</em>
 * :white_check_mark: [Rusty Bin](<challenges/Reverse Engineering/rusty-bin/>) <em>(hard)</em>
+* :white_check_mark: [In Plain Sight](<challenges/Reverse Engineering/in-plain-sight/>) <em>(hard)</em>
 
 ### Forensics
 
@@ -96,10 +97,6 @@
 * :white_check_mark: [Base64by32](<challenges/Scripting/base64by32/>) <em>(easy)</em>
 * :white_check_mark: [Echo Chamber](<challenges/Scripting/echo-chamber/>) <em>(easy)</em>
 
-### OSINT
-
-* [Ran Somewhere](<challenges/OSINT/ran-somewhere/>) <em>(medium)</em>
-
 ### Web
 
 * [Y2J](<challenges/Web/y2j/>) <em>(easy)</em>
@@ -107,6 +104,10 @@
 * [HelpfulDesk](<challenges/Web/helpfuldesk/>) <em>(medium)</em>
 * :white_check_mark: [PillowFight](<challenges/Web/pillowfight/>) <em>(easy)</em>
 * :white_check_mark: [MOVEable](<challenges/Web/moveable/>) <em>(hard)</em>
+
+### OSINT
+
+* [Ran Somewhere](<challenges/OSINT/ran-somewhere/>) <em>(medium)</em>
 
 ### Binary Exploitation
 
