@@ -53,12 +53,12 @@ def worker(shash, ehash, data):
 
 # Try all the other A 4 byte values
 # I started here manually
-patch(1, 0xAAA, data)
-patch(1, 0xAAAA, data)
-patch(1, 0xAAAAA, data)
-patch(1, 0xAAAAAA, data)
-patch(1, 0xAAAAAAA, data)
-patch(1, 0xAAAAAAAA, data)
+patch(0xAAA, data)
+patch(0xAAAA, data)
+patch(0xAAAAA, data)
+patch(0xAAAAAA, data)
+patch(0xAAAAAAA, data)
+patch(0xAAAAAAAA, data)
 
 # Brute force 1 byte
 # I tried this after the A's
@@ -67,15 +67,15 @@ worker(0x00, 0xFF, data)
 
 # Try some other random funny numbers
 # I tried some of these next
-patch(1, 1337, data)
-patch(1, 9001, data)
-patch(1, 12345, data)
-patch(1, 0x73736170, data) # pass in LE hex
-patch(1, 0x70617373, data) # pass in BE hex
+patch(1337, data)
+patch(9001, data)
+patch(12345, data)
+patch(0x73736170, data) # pass in LE hex
+patch(0x70617373, data) # pass in BE hex
 
 # Try their decimal representation as hex
 # I just guessed after some time
-patch(1, 0x1010, data)
-patch(1, 0x101010, data)
-patch(1, 0x10101010, data)
+patch(0x1010, data)
+patch(0x101010, data)
+patch(0x10101010, data)
 ```
