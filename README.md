@@ -2,17 +2,22 @@
 
 ## About
 
-[insert description here]
+This is a repo with some _slightly_ sanitized notes for the challenges I found most interesting. I solved many of these with a tool called Binary Refinery, so if you see some weird command-line stuff with commands prefixed with `r.`, just assume it is that.
+
+Try it for yourself:
+https://github.com/binref/refinery
+
+I added some of these notes from other team's more elegant solutions, so there will be a mention of them if I reference their solutions.
+
+Thanks to Huntress for the enjoyable CTF, and GG to all participants!
+
+> If you want to contribute write-ups to challenges I didn't write up, just PR with the writeup in the challenge readme and add a check mark to the main readme. If you want to add your own notes to an existing writeup, feel free to just make a new section below any existing sections with your handle and add your notes in a PR.
 
 ## Challenges
 
-### Huntress
+### League Of Their Own
 
-* [More Challenges Tomorrow!](<challenges/Huntress/more-challenges-tomorrow/>) <em>(n/a)</em>
-
-### Feedback
-
-* [Feedback](<challenges/Feedback/feedback/>) <em>(easy)</em>
+* :white_check_mark: [Zulu](<challenges/Warmups/zulu/>) <em>(impossible)</em>
 
 ### Reverse Engineering
 
@@ -69,7 +74,6 @@
 * [Unbelievable](<challenges/Warmups/unbelievable/>) <em>(easy)</em>
 * [I Can't SSH](<challenges/Warmups/i-cant-ssh/>) <em>(easy)</em>
 * [Typo](<challenges/Warmups/typo/>) <em>(easy)</em>
-* :white_check_mark: [Zulu](<challenges/Warmups/zulu/>) <em>(easy)</em>
 * [Finders Fee](<challenges/Warmups/finders-fee/>) <em>(easy)</em>
 * [Mystery](<challenges/Warmups/mystery/>) <em>(easy)</em>
 * [The Void](<challenges/Warmups/the-void/>) <em>(easy)</em>
@@ -86,6 +90,7 @@
 * :white_check_mark: [eepy](<challenges/Malware/eepy/>) <em>(medium)</em>
 * :white_check_mark: [Revenge of Discount Programming Devices](<challenges/Malware/revenge-of-discount-programming-devices/>) <em>(easy)</em>
 * :white_check_mark: [Rustline](<challenges/Malware/rustline/>) <em>(medium)</em>
+* :white_check_mark: [Palimpsest](<challenges/Malware/palimpsest/>) <em>(hard)</em>
 
 ### Cryptography
 
@@ -104,6 +109,7 @@
 * [HelpfulDesk](<challenges/Web/helpfuldesk/>) <em>(medium)</em>
 * :white_check_mark: [PillowFight](<challenges/Web/pillowfight/>) <em>(easy)</em>
 * :white_check_mark: [MOVEable](<challenges/Web/moveable/>) <em>(hard)</em>
+* :white_check_mark: [Zippy](<challenges/Web/zippy/>) <em>(medium)</em>
 
 ### OSINT
 
