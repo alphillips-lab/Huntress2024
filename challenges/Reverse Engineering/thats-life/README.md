@@ -55,6 +55,11 @@ GDB Plugin for python:
 https://sourceware.org/gdb/current/onlinedocs/gdb.html/Python-API.html#Python-API
 
 
+## White's Solution
+
+Here is also a funny solution, courtesy of White:
+![life_white.png](/images/life_white.png)
+
 ## Appendix
 
 GDB Script for parsing the win condition state:
