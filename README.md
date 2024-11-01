@@ -4,6 +4,8 @@
 
 This is a repo with some _slightly_ sanitized notes for the challenges I found most interesting. I solved many of these with a tool called Binary Refinery, so if you see some weird command-line stuff with commands prefixed with `r.`, just assume it is that.
 
+If there is something in the commands I use that you don't understand, binary refinery has a helpful command that lets you basically grep through its documentation. To do this, install it and run `binref <search term>`
+
 Try it for yourself:
 https://github.com/binref/refinery
 
