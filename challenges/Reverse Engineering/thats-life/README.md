@@ -57,7 +57,8 @@ https://sourceware.org/gdb/current/onlinedocs/gdb.html/Python-API.html#Python-AP
 
 ## White's Solution
 
-Here is also a funny solution, courtesy of White:
+Here is also a funny solution, courtesy of White. The patched file is in the files folder.
+
 ![life_white.png](/images/life_white.png)
 
 ## Appendix
