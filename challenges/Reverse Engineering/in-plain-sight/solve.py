@@ -21,21 +21,15 @@ def get_table_and_png(resources):
             continue
 
         # Header Len, width, and height of the image
-        hl, w, h = struct.unpack("<III", rc[0:12])
-        data = rc[hl:]
-
-        # The height was doubled for some reason in the struct
-        h = h // 2
+        # size of the image, then the mask is the remaining bytes
+        hl, w, h, _, _, _, imsize, _, _, _, _ = struct.unpack("<IIIHHIIIIII", rc[0:0x28])
 
         # color size
-        cs = (w * h) * 4
-        color = data[:hl+cs]
+        image = rc[hl:hl+imsize]
+        mask = rc[hl+imsize:]
 
-        # not sure about this right now
-        mask_len = int(((int((w + 31) / 32)) * 4))
-        mask = data[cs:hl+cs+(mask_len*h)]
-
-        cl = color | r.chop(w*4) | [bytearray]
+        mask_len = len(mask) // w
+        cl = image | r.chop(w*4) | [bytearray]
         ml = mask | r.chop(mask_len) | [bytearray]
 
         for c, m in zip(cl, ml):
